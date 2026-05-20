@@ -18,3 +18,9 @@
          01110100 01101000 01100101 00100000 
    01100100 01100001 01110100 01100001 00100000
          01110111 01100101 01100001 01110000 01101111 01101110
+
+
+Languages:  Python • Rust • C++ • SQL
+Tools:      Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch
+            Power BI • Tableau • PostgreSQL • Docker
+OS/Env:     Linux • Git • VS Code • Neovim
